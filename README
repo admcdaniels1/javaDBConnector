@@ -1,0 +1,16 @@
+Assignment 4 - JDBC SQL 4/11/2017
+
+Our source code is in the src directory, and the data is the in the data 
+directory. 
+Both questions are answer when main is run, all you need to do is
+javac *.java
+java main
+
+We use getmetadata in run312e
+Everything else is used liberally throughout the programs. With exeuteQuery 
+used all throughout 311, and executeUpdate in 312 likewise.
+
+Prepared is used in 312a and 312b and 312c. We add Chavez in 312c. 
+
+Andrew McDaniels
+April Crawford
